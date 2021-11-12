@@ -1,3 +1,8 @@
+## **Important**
+
+This is forked from [phseiff/github-flavored-markdown-to-html](https://github.com/phseiff/github-flavored-markdown-to-html).
+This fork removes `user-content` in ids and hrefs. The reason for not contributing upstream is due to me, thinking that I might mess up the developer's vision of his project. However, if the developer request for this to be brought upstream, I would gladly make a PR.
+
 [![brought to you by phseiff](https://phseiff.com/images/brought-to-you-by-phseiff.svg)](https://github.com/phseiff)
 [![github flavored markdown to html, aka gh-md-to-html](https://raw.githubusercontent.com/phseiff/github-flavored-markdown-to-html/master/docs/header.svg)](https://github.com/phseiff/github-flavored-markdown-to-html)
 
